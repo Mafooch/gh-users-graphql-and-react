@@ -41,5 +41,6 @@
   "main": "index.js",
   "repository": "git@github.com:Mafooch/gh-users-graphql-and-react.git",
   "author": "Mafooch <joshuamaffuccio@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
