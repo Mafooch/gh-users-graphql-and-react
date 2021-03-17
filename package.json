@@ -1,0 +1,9 @@
+{
+  "name": "gh-users-graphql-and-react",
+  "version": "1.0.0",
+  "description": "basic app for learning more about graphql and the appollo client using react",
+  "main": "index.js",
+  "repository": "https://github.com/Mafooch/gh-users-graphql-and-react",
+  "author": "Mafooch <joshuamaffuccio@gmail.com>",
+  "license": "MIT"
+}
